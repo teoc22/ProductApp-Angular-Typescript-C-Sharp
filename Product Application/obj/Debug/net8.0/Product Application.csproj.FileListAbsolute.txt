@@ -1,0 +1,261 @@
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\appsettings.json
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Product Application.exe
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Product Application.deps.json
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Product Application.runtimeconfig.json
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Product Application.dll
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Product Application.pdb
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Application\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.csproj.AssemblyReference.cache
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfoInputs.cache
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfo.cs
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.csproj.CoreCompileInputs.cache
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.Product Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Application.props
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Application.props
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Application.props
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\scopedcss\bundle\Product Application.styles.css
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product .9B3C33AA.Up2Date
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.dll
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\refint\Product Application.dll
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.pdb
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\Product Application.genruntimeconfig.cache
+D:\Application\Product Application\Product Application\obj\Debug\net8.0\ref\Product Application.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\appsettings.json
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Product Application.exe
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Product Application.deps.json
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Product Application.runtimeconfig.json
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Product Application.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Product Application.pdb
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.csproj.AssemblyReference.cache
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfoInputs.cache
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfo.cs
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.csproj.CoreCompileInputs.cache
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.Product Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Application.props
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Application.props
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Application.props
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\scopedcss\bundle\Product Application.styles.css
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product .9B3C33AA.Up2Date
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.dll
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\refint\Product Application.dll
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.pdb
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\Product Application.genruntimeconfig.cache
+D:\Product Application\Backend\Product Application\obj\Debug\net8.0\ref\Product Application.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Azure.Core.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Azure.Identity.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\ProductAppCore.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\ProductAppDAL.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\ProductAppCore.pdb
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\ProductAppDAL.pdb
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\ProductAppBL.dll
+D:\Product Application\Backend\Product Application\bin\Debug\net8.0\ProductAppBL.pdb
+D:\Product Application\Product Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Product Application\Product Application\bin\Debug\net8.0\appsettings.json
+D:\Product Application\Product Application\bin\Debug\net8.0\Product Application.exe
+D:\Product Application\Product Application\bin\Debug\net8.0\Product Application.deps.json
+D:\Product Application\Product Application\bin\Debug\net8.0\Product Application.runtimeconfig.json
+D:\Product Application\Product Application\bin\Debug\net8.0\Product Application.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Product Application.pdb
+D:\Product Application\Product Application\bin\Debug\net8.0\Azure.Core.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Azure.Identity.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\ProductAppBL.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\ProductAppCore.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\ProductAppDAL.dll
+D:\Product Application\Product Application\bin\Debug\net8.0\ProductAppBL.pdb
+D:\Product Application\Product Application\bin\Debug\net8.0\ProductAppCore.pdb
+D:\Product Application\Product Application\bin\Debug\net8.0\ProductAppDAL.pdb
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.csproj.AssemblyReference.cache
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfoInputs.cache
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfo.cs
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.csproj.CoreCompileInputs.cache
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.Product Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Application.props
+D:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Application.props
+D:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Application.props
+D:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Product Application\Product Application\obj\Debug\net8.0\scopedcss\bundle\Product Application.styles.css
+D:\Product Application\Product Application\obj\Debug\net8.0\Product .9B3C33AA.Up2Date
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.dll
+D:\Product Application\Product Application\obj\Debug\net8.0\refint\Product Application.dll
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.pdb
+D:\Product Application\Product Application\obj\Debug\net8.0\Product Application.genruntimeconfig.cache
+D:\Product Application\Product Application\obj\Debug\net8.0\ref\Product Application.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Product Application\Product Application\bin\Debug\net8.0\appsettings.json
+C:\Product Application\Product Application\bin\Debug\net8.0\Product Application.exe
+C:\Product Application\Product Application\bin\Debug\net8.0\Product Application.deps.json
+C:\Product Application\Product Application\bin\Debug\net8.0\Product Application.runtimeconfig.json
+C:\Product Application\Product Application\bin\Debug\net8.0\Product Application.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Product Application.pdb
+C:\Product Application\Product Application\bin\Debug\net8.0\Azure.Core.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Azure.Identity.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\ProductAppBL.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\ProductAppCore.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\ProductAppDAL.dll
+C:\Product Application\Product Application\bin\Debug\net8.0\ProductAppBL.pdb
+C:\Product Application\Product Application\bin\Debug\net8.0\ProductAppCore.pdb
+C:\Product Application\Product Application\bin\Debug\net8.0\ProductAppDAL.pdb
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.csproj.AssemblyReference.cache
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfoInputs.cache
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.AssemblyInfo.cs
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.csproj.CoreCompileInputs.cache
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.sourcelink.json
+C:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.Product Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Application.props
+C:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Application.props
+C:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Application.props
+C:\Product Application\Product Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Product Application\Product Application\obj\Debug\net8.0\scopedcss\bundle\Product Application.styles.css
+C:\Product Application\Product Application\obj\Debug\net8.0\Product .9B3C33AA.Up2Date
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.dll
+C:\Product Application\Product Application\obj\Debug\net8.0\refint\Product Application.dll
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.pdb
+C:\Product Application\Product Application\obj\Debug\net8.0\Product Application.genruntimeconfig.cache
+C:\Product Application\Product Application\obj\Debug\net8.0\ref\Product Application.dll

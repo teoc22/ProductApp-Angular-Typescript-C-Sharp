@@ -1,0 +1,59 @@
+# Node modules
+ProductAppAngular/node_modules/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.vssscc
+*.vscode/
+
+# Build directories
+ProductAppAngular/dist/
+ProductAppAngular/out/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+
+# Database files
+*.sql
+*.sqlite
+
+# IDE specific files
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Angular specific
+/dist
+/tmp
+/out-tsc
+/bazel-out
+/node_modules
+npm-debug.log
+yarn-error.log
+.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+"ProductAppDAL/ProductAppDAL/DatabaseBackup/ptl.bakk" 
