@@ -55,5 +55,4 @@ yarn-error.log
 /coverage
 /libpeerconnection.log
 testem.log
-/typings
-"ProductAppDAL/ProductAppDAL/DatabaseBackup/ptl.bakk" 
+/typings 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Product Application\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj": {}
+    "D:\\projects\\productApp\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj": {}
   },
   "projects": {
-    "C:\\Product Application\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj": {
+    "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Product Application\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
+        "projectUniqueName": "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
         "projectName": "ProductAppCore",
-        "projectPath": "C:\\Product Application\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
+        "projectPath": "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
         "packagesPath": "C:\\Users\\Teodor Coste\\.nuget\\packages\\",
-        "outputPath": "C:\\Product Application\\ProductAppCore\\ProductAppCore\\obj\\",
+        "outputPath": "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Teodor Coste\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Product Application\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj": {
+    "D:\\projects\\productApp\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Product Application\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj",
+        "projectUniqueName": "D:\\projects\\productApp\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj",
         "projectName": "ProductAppDAL",
-        "projectPath": "C:\\Product Application\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj",
+        "projectPath": "D:\\projects\\productApp\\ProductAppDAL\\ProductAppDAL\\ProductAppDAL.csproj",
         "packagesPath": "C:\\Users\\Teodor Coste\\.nuget\\packages\\",
-        "outputPath": "C:\\Product Application\\ProductAppDAL\\ProductAppDAL\\obj\\",
+        "outputPath": "D:\\projects\\productApp\\ProductAppDAL\\ProductAppDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Teodor Coste\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Product Application\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj": {
-                "projectPath": "C:\\Product Application\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj"
+              "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj": {
+                "projectPath": "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj"
               }
             }
           }

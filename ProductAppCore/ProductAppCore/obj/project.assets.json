@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Product Application\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
+      "projectUniqueName": "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
       "projectName": "ProductAppCore",
-      "projectPath": "C:\\Product Application\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
+      "projectPath": "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\ProductAppCore.csproj",
       "packagesPath": "C:\\Users\\Teodor Coste\\.nuget\\packages\\",
-      "outputPath": "C:\\Product Application\\ProductAppCore\\ProductAppCore\\obj\\",
+      "outputPath": "D:\\projects\\productApp\\ProductAppCore\\ProductAppCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Teodor Coste\\AppData\\Roaming\\NuGet\\NuGet.Config",
