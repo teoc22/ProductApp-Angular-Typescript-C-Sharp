@@ -1,0 +1,19 @@
+.dialog-content {
+    margin: 20px 0;
+    text-align: center;
+  
+    p {
+      margin: 0;
+      font-size: 16px;
+    }
+  }
+  
+  kendo-dialog-actions {
+    display: flex;
+    justify-content: center;
+  
+    button {
+      margin: 0 10px;
+    }
+  }
+  

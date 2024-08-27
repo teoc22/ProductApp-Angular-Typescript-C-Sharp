@@ -1,0 +1,46 @@
+<!-- The form is bound to the loginInputForm FormGroup in the component class -->
+<form [formGroup]="loginInputForm">
+
+  <!-- A flex container for the login form, used to control the layout and styling -->
+  <div class="login-form-flex">
+    
+    <!-- Material Design card to encapsulate the login form -->
+    <mat-card>
+      
+      <!-- Card title indicating that this is the login form -->
+      <mat-card-title class="title mb-3">Login</mat-card-title>
+      
+      <!-- Card content containing the form fields -->
+      <mat-card-content>
+        
+        <!-- Form field for entering the username -->
+        <mat-form-field>
+          <input type="text" matInput placeholder="User Name" formControlName="userName">
+        </mat-form-field>
+        
+        <!-- Adding a line break for spacing between the form fields -->
+        <br/>
+        
+        <!-- Form field for entering the password -->
+        <mat-form-field>
+          <input type="password" matInput placeholder="Password" formControlName="passWord"/>
+        </mat-form-field>
+        
+      </mat-card-content>
+
+      <!-- Card actions containing buttons for form interactions -->
+      <mat-card-actions>
+        <div class="button-flex-container">
+          
+          <!-- Button to trigger the forgotPassword() function when clicked -->
+          <button mat-button color="accent" (click)="forgotPassword()">Forgot Password?</button>
+          
+          <!-- Button to trigger the loginInput() function when clicked -->
+          <button mat-raised-button color="primary" (click)="loginInput()">Login</button>
+        
+        </div>
+      </mat-card-actions>
+
+    </mat-card>
+  </div>
+</form>

@@ -1,0 +1,24 @@
+<!-- Define an Angular template that can be used dynamically with ng-template -->
+<ng-template #content let-modal>
+    
+  <!-- Modal header with dynamic CSS class binding -->
+  <div class="modal-header" [ngClass]="headerClass">
+      <!-- Modal title, bound to the modalConfig's title property -->
+      <h4 class="modal-title text-white" id="modal-basic-title">{{ modalConfig.title }}</h4>
+      
+      <!-- Close button that calls the close() method when clicked -->
+      <button type="button" class="btn-close" aria-label="Close" (click)="close(modal)"></button>
+  </div>
+  
+  <!-- Modal body where content can be dynamically injected -->
+  <div class="modal-body">
+      <ng-content></ng-content> <!-- ng-content is a placeholder for dynamic content -->
+  </div>
+  
+  <!-- Modal footer with a submit button -->
+  <div class="modal-footer">
+      <!-- Submit button that triggers the submit() method when clicked -->
+      <button type="button" class="btn btn-outline-secondary" (click)="submit()">Submit</button>
+  </div>
+  
+</ng-template>

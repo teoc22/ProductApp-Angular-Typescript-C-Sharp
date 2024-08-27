@@ -1,0 +1,94 @@
+<!-- Container for the search input field with flexbox layout to align and space elements -->
+<div class="d-flex align-items-center justify-content-between mt-4">
+  
+    <!-- Material form field with full width and margin-top styling -->
+    <mat-form-field class="w-100 mt-4">
+      
+      <!-- Input field for searching products or customers by name, bound to 'searchString' model -->
+      <!-- The 'searchProduct()' method is triggered when the input value changes -->
+      <input matInput placeholder="Search by Product Name or Customer Name.." [(ngModel)]="searchString" (change)="searchProduct()">
+    
+    </mat-form-field>
+  </div>
+  
+  <!-- Material table to display the list of products with some elevation styling -->
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+  
+    <!-- ID Column Definition -->
+    <ng-container matColumnDef="id">
+      <th mat-header-cell *matHeaderCellDef> ID </th> <!-- Header for ID column -->
+      <td mat-cell *matCellDef="let element"> {{element.id}} </td> <!-- Data cell displaying the ID -->
+    </ng-container>
+  
+    <!-- Status Column Definition -->
+    <ng-container matColumnDef="status">
+      <th mat-header-cell *matHeaderCellDef> Status </th> <!-- Header for Status column -->
+      <td mat-cell *matCellDef="let element"> {{element.status}} </td> <!-- Data cell displaying the Status -->
+    </ng-container>
+  
+    <!-- Product Code Column Definition -->
+    <ng-container matColumnDef="productCode">
+      <th mat-header-cell *matHeaderCellDef> Product Code </th> <!-- Header for Product Code column -->
+      <td mat-cell *matCellDef="let element"> {{element.productCode}} </td> <!-- Data cell displaying the Product Code -->
+    </ng-container>
+  
+    <!-- Product Name Column Definition -->
+    <ng-container matColumnDef="productName">
+      <th mat-header-cell *matHeaderCellDef> Product Name </th> <!-- Header for Product Name column -->
+      <td mat-cell *matCellDef="let element"> {{element.productName}} </td> <!-- Data cell displaying the Product Name -->
+    </ng-container>
+  
+    <!-- Customer Name Column Definition -->
+    <ng-container matColumnDef="customerName">
+      <th mat-header-cell *matHeaderCellDef> Customer Name </th> <!-- Header for Customer Name column -->
+      <td mat-cell *matCellDef="let element"> {{element.customerName}} </td> <!-- Data cell displaying the Customer Name -->
+    </ng-container>
+  
+    <!-- Quantity Column Definition -->
+    <ng-container matColumnDef="quantity">
+      <th mat-header-cell *matHeaderCellDef> Quantity </th> <!-- Header for Quantity column -->
+      <td mat-cell *matCellDef="let element"> {{element.quantity}} </td> <!-- Data cell displaying the Quantity -->
+    </ng-container>
+  
+    <!-- Delivery Date Column Definition -->
+    <ng-container matColumnDef="deliveryDate">
+      <th mat-header-cell *matHeaderCellDef> Delivery Date </th> <!-- Header for Delivery Date column -->
+      <td mat-cell *matCellDef="let element"> {{ element.deliveryDate | date:'yyyy-MM-dd' }}</td> <!-- Data cell displaying the formatted Delivery Date -->
+    </ng-container>
+  
+    <!-- Header row and data row definitions -->
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;" 
+        (click)="selectRow(row)" 
+        [class.selected]="selectedRow === row"> <!-- Apply 'selected' class if the row is selected -->
+    </tr>
+  </table>
+  
+    <!-- Modal for adding a new product -->
+    <app-modal #addProductModal [modalConfig]="addModalConfig">
+        <app-production-add-modal [modalComp]="addProductModal" (productAdd)="refreshTable($event)"></app-production-add-modal>
+    </app-modal>
+    
+    <!-- Modal for editing an existing product -->
+    <app-modal #editProductModal [modalConfig]="editModalConfig">
+        <app-production-edit-modal [modalComp]="editProductModal" (productUpdate)="refreshTable($event)"></app-production-edit-modal>
+    </app-modal>
+    
+    <!-- Modal for deleting a product -->
+    <app-modal #deleteProductModal [modalConfig]="deleteModalConfig">
+        <app-production-delete-modal [modalComp]="deleteProductModal" (productDelete)="refreshTable($event)"></app-production-delete-modal>
+    </app-modal>
+    
+    <!-- Buttons for Add, Edit, and Delete actions with flexbox layout -->
+    <div class="d-flex justify-content-end gap-2">
+    
+    <!-- Button to open the add product modal -->
+    <button class="btn btn-lg btn-outline-primary mt-4" (click)="openAddModal()">Add</button>
+    
+    <!-- Button to open the edit product modal, disabled if no row is selected -->
+    <button class="btn btn-lg btn-outline-secondary mt-4" (click)="openEditModal()" [disabled]="!selectedRow">Edit</button>
+    
+    <!-- Button to open the delete product modal, disabled if no row is selected -->
+    <button class="btn btn-lg btn-outline-danger mt-4" (click)="openDeleteModal()" [disabled]="!selectedRow">Delete</button>
+  
+  </div>

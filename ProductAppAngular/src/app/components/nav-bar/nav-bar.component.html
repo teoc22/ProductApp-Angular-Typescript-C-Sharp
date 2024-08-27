@@ -1,0 +1,29 @@
+<!-- Toolbar with a background of success color and white text, using flexbox for layout -->
+<mat-toolbar class="d-flex justify-content-between bg-success text-white">
+  
+  <!-- Application title displayed on the left side of the toolbar -->
+  <span class="title">Product App</span>
+  
+  <!-- Spacer to push the login/logout buttons to the right -->
+  <span class="example-spacer"></span>
+  
+  <!-- Display this section only if the user is logged in -->
+  <div *ngIf="isLoggedIn; else loggedOut">
+    <!-- Log Out button that triggers the logOut() method when clicked -->
+    <button mat-button (click)="logOut()">Log Out</button>
+  </div>
+  
+  <!-- Template for when the user is not logged in -->
+  <ng-template #loggedOut>
+    <div>
+      <!-- Log In button that triggers the redirectToLogin() method when clicked -->
+      <button class="text-white" mat-button (click)="redirectToLogin()">Log In</button>
+      <!-- Register button that triggers the redirectToRegister() method when clicked -->
+      <button class="text-white" mat-button (click)="redirectToRegister()">Register</button>
+    </div>
+  </ng-template>
+
+</mat-toolbar>
+
+
+

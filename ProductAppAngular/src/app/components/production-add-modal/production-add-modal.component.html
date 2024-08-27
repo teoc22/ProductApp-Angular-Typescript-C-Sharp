@@ -1,0 +1,69 @@
+<!-- Form bound to the addProductForm FormGroup, with a bottom margin of 5px -->
+<form style="margin-bottom:5px" [formGroup]="addProductForm">
+    
+    <!-- Status Input Field -->
+    <div class="mb-2 fw-bold">
+        <!-- Material Design form field with 100% width for the status input -->
+        <mat-form-field class="statusInput w-100">
+            <!-- Label for the status input field -->
+            <mat-label>Status</mat-label>
+            <!-- Input field bound to the 'status' FormControl in the form group -->
+            <input matInput formControlName="status" placeholder="Please insert the status input...">
+        </mat-form-field>
+    </div>
+
+    <!-- Product Code Input Field -->
+    <div class="mb-2 fw-bold">
+        <!-- Material Design form field with 100% width for the product code input -->
+        <mat-form-field class="productCodeInput w-100">
+            <!-- Label for the product code input field -->
+            <mat-label class="w-100">Product Code</mat-label>
+            <!-- Input field bound to the 'productCode' FormControl in the form group -->
+            <input matInput formControlName="productCode" placeholder="Please insert the product code input...">
+        </mat-form-field>
+    </div>
+
+    <!-- Product Name Input Field -->
+    <div class="mb-2 fw-bold">
+        <!-- Material Design form field with 100% width for the product name input -->
+        <mat-form-field class="productNameInput w-100">
+            <!-- Label for the product name input field -->
+            <mat-label>Product Name</mat-label>
+            <!-- Input field bound to the 'productName' FormControl in the form group -->
+            <input matInput formControlName="productName" placeholder="Please insert the product name input...">
+        </mat-form-field>
+    </div>
+
+    <!-- Customer Name Input Field -->
+    <div class="mb-2 fw-bold">
+        <!-- Material Design form field with 100% width for the customer name input -->
+        <mat-form-field class="customerNameInput w-100">
+            <!-- Label for the customer name input field -->
+            <mat-label>Customer Name</mat-label>
+            <!-- Input field bound to the 'customerName' FormControl in the form group -->
+            <input matInput formControlName="customerName" placeholder="Please insert the customer name input...">
+        </mat-form-field>
+    </div>
+
+    <!-- Quantity Input Field -->
+    <div class="mb-2 fw-bold">
+        <!-- Material Design form field with 100% width for the quantity input -->
+        <mat-form-field class="quantityInput w-100">
+            <!-- Label for the quantity input field -->
+            <mat-label>Quantity</mat-label>
+            <!-- Input field bound to the 'quantity' FormControl in the form group -->
+            <input matInput formControlName="quantity" placeholder="Please insert the quantity input...">
+        </mat-form-field>
+    </div>
+
+    <!-- Delivery Date Input Field -->
+    <div class="mb-4 fw-bold">
+        <!-- Material Design form field with 100% width for the delivery date input -->
+        <mat-form-field class="deliveryDateInput w-100">
+            <!-- Label for the delivery date input field -->
+            <mat-label>Delivery Date</mat-label>
+            <!-- Input field bound to the 'deliveryDate' FormControl in the form group -->
+            <input matInput formControlName="deliveryDate" placeholder="Please insert the delivery input...">
+        </mat-form-field>
+    </div>
+</form>

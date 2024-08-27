@@ -1,0 +1,46 @@
+<!-- Form bound to the registerInputForm FormGroup -->
+<form [formGroup]="registerInputForm">
+  
+  <!-- Flex container for the register form -->
+  <div class="register-form-flex">
+    
+    <!-- Material Design card to encapsulate the registration form -->
+    <mat-card>
+      
+      <!-- Card title indicating that this is the registration form -->
+      <mat-card-title class="title mb-3">Register</mat-card-title>
+      
+      <!-- Card content containing the form fields -->
+      <mat-card-content>
+        
+        <!-- Form field for entering the user name -->
+        <mat-form-field>
+          <!-- Input field bound to the 'userName' FormControl in the form group -->
+          <input type="text" matInput placeholder="User Name" formControlName="userName">
+        </mat-form-field>
+        
+        <!-- Line break for spacing between form fields -->
+        <br/>
+        
+        <!-- Form field for entering the password -->
+        <mat-form-field>
+          <!-- Input field bound to the 'passWord' FormControl in the form group -->
+          <input type="password" matInput placeholder="Password" formControlName="passWord"/>
+        </mat-form-field>
+      
+      </mat-card-content>
+
+      <!-- Card actions containing the registration button -->
+      <mat-card-actions>
+        <!-- Flex container for aligning the button -->
+        <div class="button-flex-container">
+          
+          <!-- Button that triggers the registerInput() function when clicked -->
+          <button mat-raised-button color="primary" (click)="registerInput()">Register</button>
+        
+        </div>
+      </mat-card-actions>
+
+    </mat-card>
+  </div>
+</form>
