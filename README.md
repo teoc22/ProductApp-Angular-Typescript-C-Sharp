@@ -151,7 +151,7 @@ To run the project locally:
 
 ```
 
-####### Future Enhancements
+###### Future Enhancements
 
 ```
 1. Unit Testing: Implement unit tests for both the backend and frontend.
