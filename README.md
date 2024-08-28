@@ -1,6 +1,6 @@
 # Description
 
-The ProductApp is a comprehensive Angular-based web application designed to manage products, customers, and their interactions. This application provides a full suite of functionalities including user authentication, product management, and customer engagement, all built on a robust backend powered by ASP.NET Core and Entity Framework.
+The ProductApp is a comprehensive Angular-based web application designed to manage products. This application provides a full suite of functionalities including user authentication & product management, all built on a robust backend powered by ASP.NET Core and Entity Framework.
 
 This project serves as an example of best practices in full-stack development, employing modern Angular for the frontend, with ASP.NET Core managing the backend services, and Entity Framework Core facilitating database operations.
 
@@ -130,10 +130,9 @@ ProductApp/
 ```
 1. User Authentication: Secure login and registration with password management.
 2. Product Management: Add, edit, delete, and view products with detailed information.
-3. Customer Management: Associate customers with products, track orders, and manage customer information.
-4. Responsive UI: Built with Angular and Bootstrap, the UI is fully responsive and works seamlessly across different devices.
-5. Backend API: RESTful services built using ASP.NET Core, following best practices for scalability and maintainability.
-6. Database Management: Leveraging Entity Framework Core to interact with SQL Server, ensuring data integrity and seamless migrations.
+3. Responsive UI: Built with Angular and Bootstrap, the UI is fully responsive and works seamlessly across different devices.
+4. Backend API: RESTful services built using ASP.NET Core, following best practices for scalability and maintainability.
+5. Database Management: Leveraging Entity Framework Core to interact with SQL Server, ensuring data integrity and seamless migrations.
 
 ```
 
