@@ -156,4 +156,4 @@ To run the project locally:
 ```
 1. Unit Testing: Implement unit tests for both the backend and frontend.
 2. Dockerization: Containerize the application for easier deployment.
-3. CI/CD Integration: Automate testing and deployment using GitHub Actions.
+3. CI/CD Integration: Automate testing and deployment.
